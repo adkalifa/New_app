@@ -8,7 +8,7 @@ class LoginPage extends Component {
     
     handleClick = () => {
         window.location.assign(HeaderPage);
-        console.loh(window.location.assign(HeaderPage));
+        console.log(window.location.assign(HeaderPage));
     }
 render() {
     return (
